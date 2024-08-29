@@ -19,7 +19,7 @@ p {
 
 .header {
   height: 660px;
-  background-image: url(./images/header-background-min.jpg);
+  background-image: url(header-background-min.jpg);
   background-size: cover;
   background-position: center;
 }
